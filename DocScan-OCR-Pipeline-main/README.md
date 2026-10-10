@@ -1,6 +1,6 @@
 # DocScan OCR Pipeline
 
-> Built by **Aarya Inamdar** — AI/ML Student  
+>  
 > A Flask-based document digitization pipeline with OpenCV preprocessing, dual-engine OCR (Tesseract + EasyOCR), and NLP post-processing.
 
 ---
