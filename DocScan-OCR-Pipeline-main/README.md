@@ -234,4 +234,3 @@ The document must occupy at least 15% of the image frame and have a clear rectan
 
 ---
 
-*Last updated by Aarya Inamdar*
